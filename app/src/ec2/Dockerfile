@@ -1,0 +1,1 @@
+This is the Dockerfile file for project-root/app/src/ec2/.

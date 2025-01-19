@@ -1,0 +1,46 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python-related files
+*.pyc
+*.pyo
+__pycache__/
+*.env
+*.venv
+.Python
+
+# Android emulator and related artifacts
+*.apk
+*.keystore
+*.lock
+*.log
+*.tmp
+*.sqlite
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# AWS credentials and sensitive files
+*.pem
+*.key
+*.crt
+.aws/
+credentials.json
+config.json
+
+# Environment files
+.env
+.env.*
+
+# Log files
+*.log
+
+# Generated files
+dist/
+build/
+coverage/
+output/
+tmp/

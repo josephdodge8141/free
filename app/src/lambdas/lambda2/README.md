@@ -1,0 +1,1 @@
+This is the README.md file for project-root/app/src/lambdas/lambda2/.

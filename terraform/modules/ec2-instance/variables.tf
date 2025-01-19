@@ -1,0 +1,1 @@
+This is the variables.tf file for project-root/terraform/modules/ec2-instance/.

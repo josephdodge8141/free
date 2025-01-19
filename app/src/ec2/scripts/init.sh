@@ -1,0 +1,1 @@
+This is the scripts/init.sh file for project-root/app/src/ec2/.
